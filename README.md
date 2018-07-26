@@ -7,3 +7,4 @@ In this repository i'm put al simple snippets of code but very usefull in some c
 - Basic Tweet
 - Caesar Cipher
 - Turtle 2D Shapes
+- Image Recognition
